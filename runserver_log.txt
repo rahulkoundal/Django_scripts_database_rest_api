@@ -1,0 +1,6 @@
+Performing system checks...
+
+February 10, 2020 - 19:52:16
+Django version 3.0.3, using settings 'tutorial.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.

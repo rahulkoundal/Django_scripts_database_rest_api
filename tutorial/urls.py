@@ -20,7 +20,8 @@ from django.conf.urls import include
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('quickstart.urls')),
-    path('', include('snippets.urls')),
+    path('snippets/', include('snippets.urls')),
+    path('database/', include('database.urls')),
     path('api-auth/', include('rest_framework.urls')),
 
 

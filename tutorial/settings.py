@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'quickstart',
     'snippets',
     'background_task',
+    'database',
 ]
 
 MIDDLEWARE = [
